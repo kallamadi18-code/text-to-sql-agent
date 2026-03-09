@@ -50,13 +50,14 @@ cd text-to-sql-agent
 streamlit run app.py
 
 📁 Project Structure :
+
 text-to-sql-agent/
-├── app.py              # Main Streamlit application
-├── database.py         # Database setup and operations
-├── agent.py           # LLM agent configuration
-├── .env               # Environment variables (create this)
-├── requirements.txt   # Project dependencies
-└── README.md          # Project documentation
+> app.py              # Main Streamlit application
+> database.py         # Database setup and operations
+> agent.py           # LLM agent configuration
+> .env               # Environment variables (create this)
+> requirements.txt   # Project dependencies
+> README.md          # Project documentation
 
 🎯 How It Works :
 1.User inputs a natural language question
