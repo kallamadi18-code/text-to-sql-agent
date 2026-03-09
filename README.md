@@ -1,9 +1,11 @@
 !<>! Text-to-SQL LLM Agent :
 
 📋 Overview :
+
 An intelligent agent that converts natural language questions into SQL queries, allowing users to interact with databases using plain English. This project demonstrates the integration of Large Language Models with database querying capabilities.
 
 🚀 Features :
+
 1.Natural Language Processing: Convert plain English questions into accurate SQL queries
 2.Interactive Interface: User-friendly web interface built with Streamlit
 3.Sample Database: Pre-configured SQLite database with employees, departments, and salaries data
@@ -30,6 +32,7 @@ An intelligent agent that converts natural language questions into SQL queries, 
 7."List departments with their employee count"
 
 🔧 Installation :
+
 >! Prerequisites
 >! Python 3.8 or higher
 >! pip package manager
@@ -60,26 +63,31 @@ text-to-sql-agent/
 > README.md          # Project documentation
 
 🎯 How It Works :
-1.User inputs a natural language question
-2.LLM agent analyzes the question and generates appropriate SQL
-3.SQL query is executed against the SQLite database
-4.Results are displayed in an easy-to-read format
+
+> User inputs a natural language question
+> LLM agent analyzes the question and generates appropriate SQL
+> SQL query is executed against the SQLite database
+> Results are displayed in an easy-to-read format
 
 💡 Use Cases :
+
 >! Business intelligence reporting
 >! Data analysis for non-technical users
 >! Educational tool for learning SQL
 >! Quick database exploration
 
 🔮 Future Enhancements :
+
 >! Support for multiple database types (PostgreSQL, MySQL)
 >! Query history and saving favorite queries
 >! Visualization of query results
 >! Multi-turn conversations for complex queries
 
 🤝 Contributing :
+
 >! Contributions are welcome! Please feel free to submit a Pull Request.
 
 📝 License :
+
 >! This project is licensed under the MIT License.
 
